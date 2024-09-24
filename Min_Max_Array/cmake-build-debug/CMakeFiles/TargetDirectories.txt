@@ -1,0 +1,3 @@
+C:/Users/dylan_tmut0bm/Documents/ClionProyects/LabSoII/Min_Max_Array/cmake-build-debug/CMakeFiles/Min_Max_Array.dir
+C:/Users/dylan_tmut0bm/Documents/ClionProyects/LabSoII/Min_Max_Array/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dylan_tmut0bm/Documents/ClionProyects/LabSoII/Min_Max_Array/cmake-build-debug/CMakeFiles/rebuild_cache.dir
