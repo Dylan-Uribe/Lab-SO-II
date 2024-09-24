@@ -1,0 +1,3 @@
+C:/Users/dylan_tmut0bm/Documents/ClionProyects/LabSoII/array_2D/cmake-build-debug/CMakeFiles/array_2D.dir
+C:/Users/dylan_tmut0bm/Documents/ClionProyects/LabSoII/array_2D/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dylan_tmut0bm/Documents/ClionProyects/LabSoII/array_2D/cmake-build-debug/CMakeFiles/rebuild_cache.dir

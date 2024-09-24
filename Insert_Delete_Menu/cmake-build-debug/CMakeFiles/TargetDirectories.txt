@@ -1,0 +1,3 @@
+C:/Users/dylan_tmut0bm/Documents/ClionProyects/LabSoII/Insert_Delete_Menu/cmake-build-debug/CMakeFiles/delete_later.dir
+C:/Users/dylan_tmut0bm/Documents/ClionProyects/LabSoII/Insert_Delete_Menu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/dylan_tmut0bm/Documents/ClionProyects/LabSoII/Insert_Delete_Menu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
